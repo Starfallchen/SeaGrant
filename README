@@ -1,7 +1,2 @@
-echo "# SeaGrant" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Starfallchen/SeaGrant.git
-git push -u origin main
+This is a repository for the Sea Grant project - Bio-economic Outcomes under Alternative Management Strategies with Human Choice and Behavior: Modeling Tautog and Anglers’ Preferences.
+It is conducted by UCONN EEB and ARE researchers. This repository primarily hold public data from the project. 
